@@ -37,7 +37,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. Can you explain what a closure is and how you used it in the counter function? 
 
- -Closure is when a scope reaches outwards of its closed scope to find a variable being reference in its outward scope. Sum reaching outwards of its scope toa ccess its value and pass it to its return
+ -Closure is when a scope reaches outwards of its closed scope to find a variable being reference in its outward scope. Sum reaching outwards of its scope toa ccess its value and pass it to its returnn
 
 4. Describe the four principles of the 'this' keyword.
 
